@@ -48,7 +48,7 @@ ol {
 ol > li {
   border: 3px solid #987ffa;
   border-radius: 6px;
-  padding:1rem;
+  padding: 1rem;
 
   display: flex;
   flex-direction: column;
@@ -65,7 +65,7 @@ h2 + img {
 ol ul {
   list-style-type: none;
   margin: 0;
-  padding:0;
+  padding: 0;
 
   display: flex;
   justify-content: space-between;
